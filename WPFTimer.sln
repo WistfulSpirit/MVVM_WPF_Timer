@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTimer", "WPFTimer\WPFTimer.csproj", "{99D6338B-23D1-4D7C-BE4A-009C4A049723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTimer.Tests", "WPFTimer.Tests\WPFTimer.Tests.csproj", "{CC118698-45DA-4DD2-8F3A-FDA409932F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D6338B-23D1-4D7C-BE4A-009C4A049723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D6338B-23D1-4D7C-BE4A-009C4A049723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D6338B-23D1-4D7C-BE4A-009C4A049723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D6338B-23D1-4D7C-BE4A-009C4A049723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC118698-45DA-4DD2-8F3A-FDA409932F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC118698-45DA-4DD2-8F3A-FDA409932F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC118698-45DA-4DD2-8F3A-FDA409932F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC118698-45DA-4DD2-8F3A-FDA409932F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2813B764-A78E-480C-B14C-080B9971DB4D}
+	EndGlobalSection
+EndGlobal
